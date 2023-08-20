@@ -1,0 +1,8 @@
+{
+    "Threads": 1,
+    "Vccuse": 4,
+    "Proxy": false,
+    "NetworkDebug": true,
+    "ErrorPrint": false,
+    "ProcessDebug": false
+}
